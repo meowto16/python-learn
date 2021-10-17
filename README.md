@@ -62,7 +62,7 @@
   - [57. Reading Files (Practice)](./docs/02.%20Python%20Basics/57.%20Reading%20Files%20(Practice).md)
   - [58. Solution](./docs/02.%20Python%20Basics/58.%20Solution.md)
   - [59. For Loops](./docs/02.%20Python%20Basics/59.%20For%20Loops.md)
-  - [6. Get Variable Value (Practice)](./docs/02.%20Python%20Basics/6.%20Get%20Variable%20Value%20(Practice).md)
+  - [✔️ 6. Get Variable Value (Practice)](./docs/02.%20Python%20Basics/6.%20Get%20Variable%20Value%20(Practice).md)
   - [60. For Loops (Practice)](./docs/02.%20Python%20Basics/60.%20For%20Loops%20(Practice).md)
   - [61. Solution](./docs/02.%20Python%20Basics/61.%20Solution.md)
   - [62. For Loops](./docs/02.%20Python%20Basics/62.%20For%20Loops.md)
