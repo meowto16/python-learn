@@ -40,7 +40,7 @@
   - [37. Create Function (Practice)](./docs/02.%20Python%20Basics/37.%20Create%20Function%20(Practice).md)
   - [38. Exponential Function (Practice)](./docs/02.%20Python%20Basics/38.%20Exponential%20Function%20(Practice).md)
   - [39. Custom Functions Return vs Print](./docs/02.%20Python%20Basics/39.%20Custom%20Functions%20Return%20vs%20Print.md)
-  - [4. Numbers](./docs/02.%20Python%20Basics/4.%20Numbers.md)
+  - [✔️ 4. Numbers](./docs/02.%20Python%20Basics/4.%20Numbers.md)
   - [40. Custom Functions with Conditionals](./docs/02.%20Python%20Basics/40.%20Custom%20Functions%20with%20Conditionals.md)
   - [41. Calculate Length (Practice)](./docs/02.%20Python%20Basics/41.%20Calculate%20Length%20(Practice).md)
   - [42. Solution](./docs/02.%20Python%20Basics/42.%20Solution.md)
