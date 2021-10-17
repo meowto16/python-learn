@@ -8,7 +8,7 @@
   - [✔️ 5. Using the Python Shell](./docs/01.%20Getting%20Started/5.%20Using%20the%20Python%20Shell.md)
 - [✔️ 02. Python Basics](./docs/02.%20Python%20Basics)
   - [✔️ 1. Small Code Example](./docs/02.%20Python%20Basics/1.%20Small%20Code%20Example.md)
-  - [10. Built-in Functions](./docs/02.%20Python%20Basics/10.%20Built-in%20Functions.md)
+  - [✔️ 10. Built-in Functions](./docs/02.%20Python%20Basics/10.%20Built-in%20Functions.md)
   - [11. Simple Sum (Practice)](./docs/02.%20Python%20Basics/11.%20Simple%20Sum%20(Practice).md)
   - [12. Lists](./docs/02.%20Python%20Basics/12.%20Lists.md)
   - [13. Lists (Practice)](./docs/02.%20Python%20Basics/13.%20Lists%20(Practice).md)
