@@ -73,7 +73,7 @@
   - [67. Functions, Conditionals, and Loops (Practice)](./docs/02.%20Python%20Basics/67.%20Functions%2C%20Conditionals%2C%20and%20Loops%20(Practice).md)
   - [68. Solution](./docs/02.%20Python%20Basics/68.%20Solution.md)
   - [69. Writing Text to a File](./docs/02.%20Python%20Basics/69.%20Writing%20Text%20to%20a%20File.md)
-  - [7. Programming Tip](./docs/02.%20Python%20Basics/7.%20Programming%20Tip.md)
+  - [✔️ 7. Programming Tip](./docs/02.%20Python%20Basics/7.%20Programming%20Tip.md)
   - [70. Appending Text to a File](./docs/02.%20Python%20Basics/70.%20Appending%20Text%20to%20a%20File.md)
   - [71. Reading and Appending Text to a File](./docs/02.%20Python%20Basics/71.%20Reading%20and%20Appending%20Text%20to%20a%20File.md)
   - [72. Write Multiple Lines in a Text File (Practice)](./docs/02.%20Python%20Basics/72.%20Write%20Multiple%20Lines%20in%20a%20Text%20File%20(Practice).md)
