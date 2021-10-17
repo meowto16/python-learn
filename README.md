@@ -12,7 +12,7 @@
   - [✔️ 11. Simple Sum (Practice)](./docs/02.%20Python%20Basics/11.%20Simple%20Sum%20(Practice).md)
   - [✔️ 12. Lists](./docs/02.%20Python%20Basics/12.%20Lists.md)
   - [✔️ 13. Lists (Practice)](./docs/02.%20Python%20Basics/13.%20Lists%20(Practice).md)
-  - [14. List Indexing and Slicing](./docs/02.%20Python%20Basics/14.%20List%20Indexing%20and%20Slicing.md)
+  - [✔️ 14. List Indexing and Slicing](./docs/02.%20Python%20Basics/14.%20List%20Indexing%20and%20Slicing.md)
   - [15. List Slicing Examples](./docs/02.%20Python%20Basics/15.%20List%20Slicing%20Examples.md)
   - [16. Indexing (Practice)](./docs/02.%20Python%20Basics/16.%20Indexing%20(Practice).md)
   - [17. Slicing (Practice)](./docs/02.%20Python%20Basics/17.%20Slicing%20(Practice).md)
