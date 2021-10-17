@@ -29,7 +29,7 @@
   - [27. Tuples](./docs/02.%20Python%20Basics/27.%20Tuples.md)
   - [28. Dictionaries](./docs/02.%20Python%20Basics/28.%20Dictionaries.md)
   - [29. Create Dictionary (Practice)](./docs/02.%20Python%20Basics/29.%20Create%20Dictionary%20(Practice).md)
-  - [3. Strings](./docs/02.%20Python%20Basics/3.%20Strings.md)
+  - [✔️ 3. Strings](./docs/02.%20Python%20Basics/3.%20Strings.md)
   - [30. More Operations with Dictionaries](./docs/02.%20Python%20Basics/30.%20More%20Operations%20with%20Dictionaries.md)
   - [31. User Input](./docs/02.%20Python%20Basics/31.%20User%20Input.md)
   - [32. Conditionals](./docs/02.%20Python%20Basics/32.%20Conditionals.md)
