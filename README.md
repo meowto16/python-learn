@@ -79,7 +79,7 @@
   - [72. Write Multiple Lines in a Text File (Practice)](./docs/02.%20Python%20Basics/72.%20Write%20Multiple%20Lines%20in%20a%20Text%20File%20(Practice).md)
   - [73. Tip Writing Multiple Lines in a Text File](./docs/02.%20Python%20Basics/73.%20Tip%20Writing%20Multiple%20Lines%20in%20a%20Text%20File.md)
   - [74. Solution](./docs/02.%20Python%20Basics/74.%20Solution.md)
-  - [8. Math Operators](./docs/02.%20Python%20Basics/8.%20Math%20Operators.md)
+  - [✔️ 8. Math Operators](./docs/02.%20Python%20Basics/8.%20Math%20Operators.md)
   - [9. Math Operators (Practice)](./docs/02.%20Python%20Basics/9.%20Math%20Operators%20(Practice).md)
 - [03. Beyond the Basics](./docs/03.%20Beyond%20the%20Basics)
   - [1. Section Introduction](./docs/03.%20Beyond%20the%20Basics/1.%20Section%20Introduction.md)
