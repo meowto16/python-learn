@@ -1,0 +1,10 @@
+{
+  "name": "python-learn",
+  "private": true,
+  "scripts": {
+    "lesson": "node ./scripts/node/complete-lesson.js"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
