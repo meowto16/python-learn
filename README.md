@@ -51,7 +51,7 @@
   - [47. Function with Default Parameters (Practice)](./docs/02.%20Python%20Basics/47.%20Function%20with%20Default%20Parameters%20(Practice).md)
   - [48. Weather Function (Practice)](./docs/02.%20Python%20Basics/48.%20Weather%20Function%20(Practice).md)
   - [49. Solution](./docs/02.%20Python%20Basics/49.%20Solution.md)
-  - [5. Variables (Practice)](./docs/02.%20Python%20Basics/5.%20Variables%20(Practice).md)
+  - [✔️ 5. Variables (Practice)](./docs/02.%20Python%20Basics/5.%20Variables%20(Practice).md)
   - [50. Functions and if-else (Practice)](./docs/02.%20Python%20Basics/50.%20Functions%20and%20if-else%20(Practice).md)
   - [51. Solution](./docs/02.%20Python%20Basics/51.%20Solution.md)
   - [52. Functions and if-elif-else (Practice)](./docs/02.%20Python%20Basics/52.%20Functions%20and%20if-elif-else%20(Practice).md)
