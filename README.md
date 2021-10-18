@@ -15,7 +15,7 @@
   - [✔️ 14. List Indexing and Slicing](./docs/02.%20Python%20Basics/14.%20List%20Indexing%20and%20Slicing.md)
   - [✔️ 15. List Slicing Examples](./docs/02.%20Python%20Basics/15.%20List%20Slicing%20Examples.md)
   - [✔️ 16. Indexing (Practice)](./docs/02.%20Python%20Basics/16.%20Indexing%20(Practice).md)
-  - [17. Slicing (Practice)](./docs/02.%20Python%20Basics/17.%20Slicing%20(Practice).md)
+  - [✔️ 17. Slicing (Practice)](./docs/02.%20Python%20Basics/17.%20Slicing%20(Practice).md)
   - [18. More on Indexing (Practice)](./docs/02.%20Python%20Basics/18.%20More%20on%20Indexing%20(Practice).md)
   - [19. More on Slicing (Practice)](./docs/02.%20Python%20Basics/19.%20More%20on%20Slicing%20(Practice).md)
   - [✔️ 2. Variables](./docs/02.%20Python%20Basics/2.%20Variables.md)
