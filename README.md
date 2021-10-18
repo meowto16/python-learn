@@ -19,7 +19,7 @@
   - [✔️ 18. More on Indexing (Practice)](./docs/02.%20Python%20Basics/18.%20More%20on%20Indexing%20(Practice).md)
   - [✔️ 19. More on Slicing (Practice)](./docs/02.%20Python%20Basics/19.%20More%20on%20Slicing%20(Practice).md)
   - [✔️ 2. Variables](./docs/02.%20Python%20Basics/2.%20Variables.md)
-  - [20. List Indexing (Practice)](./docs/02.%20Python%20Basics/20.%20List%20Indexing%20(Practice).md)
+  - [✔️ 20. List Indexing (Practice)](./docs/02.%20Python%20Basics/20.%20List%20Indexing%20(Practice).md)
   - [21. List Methods](./docs/02.%20Python%20Basics/21.%20List%20Methods.md)
   - [22. Quiz 1 Indexing and Slicing](./docs/02.%20Python%20Basics/22.%20Quiz%201%20Indexing%20and%20Slicing.md)
   - [23. Append to List (Practice)](./docs/02.%20Python%20Basics/23.%20Append%20to%20List%20(Practice).md)
